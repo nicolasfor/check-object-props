@@ -1,0 +1,26 @@
+{
+  "name": "check-object-props",
+  "version": "1.0.0",
+  "description": "Checks deep object properties and types",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "object",
+    "checker",
+    "validation",
+    "validator"
+  ],
+  "author": {
+    "name": "Nicolás Forero",
+    "email": "nicolasfor@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
