@@ -4,7 +4,8 @@
   "description": "Checks deep object properties and types",
   "main": "lib/index.js",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "test": "test"
   },
   "scripts": {
     "test": "mocha"
@@ -15,12 +16,17 @@
     "validation",
     "validator"
   ],
-  "author": {
-    "name": "Nicolás Forero",
-    "email": "nicolasfor@gmail.com"
-  },
+  "author": "Nicolás Forero <nicolasfor@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "mocha": "^8.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasfor/check-object-props.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nicolasfor/check-object-props/issues"
+  },
+  "homepage": "https://github.com/nicolasfor/check-object-props#readme"
 }
