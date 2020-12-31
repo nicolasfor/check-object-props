@@ -1,6 +1,6 @@
 {
   "name": "check-object-props",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Checks deep object properties and types",
   "main": "lib/index.js",
   "directories": {
